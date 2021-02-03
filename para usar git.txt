@@ -1,0 +1,4 @@
+git add .
+git commit -m "texto sobre lo que se sube"
+
+git push para subir al repositorio
