@@ -29,6 +29,8 @@ Instalación
 Usando composer vamos a movernos al directorio de trabajo En ese directorio vamos a crear un proyecto (carpeta con toda la magia de laravel) . Con el comando "cd" nos movemos a nuestro directorio de trabajo y luego, con el comando "composer create-project" crearemos un proyecto
 composer create-project laravel/laravel nombre "version"
 
+
+
 Ejemplo para instalar laravel 6x
 composer create-project laravel/laravel proyecto "6.*"
 
@@ -38,6 +40,21 @@ cd proyecto
 
 EL MARAVILLOSO MUNDO DE ARTISAN para iniciar al server es el comando
 php artisan serve
+
+
+
+para subir en al repositorio
+git add .
+git commit -m "texto sobre lo que se sube"
+
+
+git push origin master     para subir al repositorio
+
+
+
+
+
+
 
 Actualización desde un proyecto en repositorio
 Cuando en un equipo de trabajo varios descargar un proyecto iniciado, la instalación es diferente.
