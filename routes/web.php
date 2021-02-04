@@ -82,7 +82,7 @@ Route::get('/destinos', function (){
  * insert()
  * update()
  * delete()
- */
+/zzzzz */
 
 
 Route::view('/agregarRegion', 'agregarRegion');
